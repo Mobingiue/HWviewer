@@ -1,3 +1,5 @@
+package test.java;
+
 public class removeNth {
 
     public static void main(String[] args) {
